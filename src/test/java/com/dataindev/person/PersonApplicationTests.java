@@ -1,4 +1,4 @@
-package com.example.person;
+package com.dataindev.person;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

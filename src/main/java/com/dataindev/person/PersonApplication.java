@@ -1,4 +1,4 @@
-package com.example.person;
+package com.dataindev.person;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

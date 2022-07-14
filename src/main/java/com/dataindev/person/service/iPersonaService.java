@@ -1,6 +1,6 @@
-package com.example.person.service;
+package com.dataindev.person.service;
 
-import com.example.person.model.Persona;
+import com.dataindev.person.model.Persona;
 
 import java.util.List;
 

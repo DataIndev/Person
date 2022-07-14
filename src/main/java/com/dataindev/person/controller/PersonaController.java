@@ -1,12 +1,13 @@
-package com.example.person.controller;
+package com.dataindev.person.controller;
 
-import com.example.person.model.Persona;
-import com.example.person.service.iPersonaService;
+import com.dataindev.person.model.Persona;
+import com.dataindev.person.service.iPersonaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+@CrossOrigin(origins = "*")
 @RestController
 public class PersonaController {
     @Autowired
@@ -46,4 +47,7 @@ public class PersonaController {
         return perso;
 
     }
+
+
+
 }

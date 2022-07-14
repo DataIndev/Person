@@ -1,7 +1,7 @@
-package com.example.person.service;
+package com.dataindev.person.service;
 
-import com.example.person.model.Persona;
-import com.example.person.repository.PersonaRepository;
+import com.dataindev.person.model.Persona;
+import com.dataindev.person.repository.PersonaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
